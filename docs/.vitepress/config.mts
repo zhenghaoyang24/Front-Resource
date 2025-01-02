@@ -5,12 +5,16 @@ export default defineConfig({
   title: "Front-Resource",
   description: "Collect high-quality resources related to the front-end.",
   themeConfig: {
+    outline: {
+      level:[2,3],
+      label:'本页标题'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '总览', link: '/introduce/start' },
       { text: '框架 / 库',
       items: [
-        { text: '开发框架', link: '/framework/Development' },
+        { text: 'JavaScript库', link: '/framework/Development' },
         { text: 'CSS', link: '/framework/CSS' },
         { text: '状态管理库', link: '/framework/StateManagement' },
       ]}
@@ -29,7 +33,7 @@ export default defineConfig({
         {
           text:"框架 / 库",
           items: [
-            { text: '开发框架', link: '/framework/Development' },
+            { text: 'JavaScript库', link: '/framework/Development' },
             { text: 'CSS', link: '/framework/CSS' },
             { text: '状态管理库', link: '/framework/StateManagement' },
           ],
