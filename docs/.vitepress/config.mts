@@ -7,22 +7,38 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      // { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '总览', link: '/introduce/start' },
+      { text: '框架 / 库',
+      items: [
+        { text: '开发框架', link: '/framework/Development' },
+        { text: 'CSS', link: '/framework/CSS' },
+        { text: '状态管理库', link: '/framework/StateManagement' },
+      ]}
     ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar:{
+      'introduce': [
+        {
+          text: '总览',
+          items: [
+            { text: '介绍', link: '/introduce/start' },
+            { text: '信息', link: '/introduce/information' }
+          ],
+        }
+      ],
+      '/framework/':[
+        {
+          text:"框架 / 库",
+          items: [
+            { text: '开发框架', link: '/framework/Development' },
+            { text: 'CSS', link: '/framework/CSS' },
+            { text: '状态管理库', link: '/framework/StateManagement' },
+          ],
+        }
+      ]
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/zhenghaoyang24/Front-Resource' }
     ]
   }
 })
