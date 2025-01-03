@@ -4,7 +4,7 @@
 
 ## 分类
 - **🛠️ 框架 / 库**：收集主流的前端开发框架和库。  
-  [JavaScript 库](../framework/Development)，[CSS 相关](../framework/CSS)
+  [JavaScript 库](../framework/javascript)，[CSS 相关](../framework/css)
 - **🖼️ UI / 组件库**：收集各种 UI 库、组件库、图表等，帮助快速构建界面。
 - **🎨 设计资源**：收集与前端开发相关的设计资源，如设计工具、图标、配色方案、字体库等。
 - **🔨 工具与插件**：收集前端开发中常用的实用工具与插件。

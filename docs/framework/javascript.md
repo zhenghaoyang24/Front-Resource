@@ -66,6 +66,8 @@ editLink: true
 `Lodash` 是一个一致性、模块化、高性能的 `JavaScript` 实用工具库，
 通过降低 `array`、`number`、`objects`、`string` 等等的使用难度从而让 `JavaScript` 变得更简单。
 
+![start](https://img.shields.io/github/stars/lodash/lodash?style=social)
+
 ###### 资源地址：
 - 仓库资源：[Github地址](https://github.com/lodash/lodash)
 - 官方文档：[文档地址](https://www.lodashjs.com/)
@@ -78,6 +80,8 @@ editLink: true
 
 `Axios` 是一个基于 `Promise` 的 `HTTP` 客户端库，用于在浏览器和 Node.js 中发送 HTTP 请求。
 简单易用，功能强大，是前端开发中最常用的网络请求工具之一。
+
+![start](https://img.shields.io/github/stars/axios/axios?style=social)
 ###### 资源地址：
 - 仓库资源：[Github地址](https://github.com/axios/axios)
 - 官方文档：[文档地址](https://www.axios-http.cn/)
@@ -92,6 +96,7 @@ editLink: true
 
 `dexie.js` 是一个对浏览器 `indexDB` 的包装库，使得开发者可以更方便地操作 `indexDB`，进行本地化存储。
 
+![start](https://img.shields.io/github/stars/dexie/Dexie.js?style=social)
 - 特性
   - 类似于后端数据库的高级查询，并且支持链式调用。
   - 更丰富的索引定义，建立索引变得非常简单，并且支持多值索引和复合索引。
@@ -106,6 +111,8 @@ editLink: true
 `localForage` 是一个基于 `IndexedDB`、`WebSQL` 和 `localStorage` 的封装库，
 它提供了一种简单且一致的方式来在浏览器中进行数据存储，使得开发者可以方便地在不同的浏览器和平台上实现持久性存储，
 而无需担心底层存储技术的不同。
+
+![start](https://img.shields.io/github/stars/localForage/localForage?style=social)
 - 特性：
   - 简单易用的 API ：提供类似 localStorage 的 API（如 setItem、getItem、removeItem），学习成本低。
   - 异步操作：在存储和检索数据时，不会阻塞应用程序的执行，提高了性能和用户体验。
@@ -126,6 +133,7 @@ editLink: true
 `PouchDB` 是一个开源的 `JavaScript` 数据库，设计用于在浏览器和 `Node.js` 环境中运行。
 它基于 `CouchDB` 的协议，支持数据的离线存储和同步，非常适合构建离线优先（Offline-First）的 `Web` 应用 或混合移动应用。
 
+![start](https://img.shields.io/github/stars/pouchdb/pouchdb?style=social)
 - 特性
   - 数据同步：支持与 CouchDB 或兼容的服务器（如 Cloudant）进行双向同步。
   - 简单易用的 API：提供类似 NoSQL 的 API，支持文档的增删改查操作。

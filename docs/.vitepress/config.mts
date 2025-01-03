@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Front-Resource",
@@ -14,9 +13,13 @@ export default defineConfig({
       { text: '总览', link: '/introduce/start' },
       { text: '框架 / 库',
       items: [
-        { text: 'JavaScript库', link: '/framework/Development' },
-        { text: 'CSS', link: '/framework/CSS' },
-      ]}
+        { text: 'JavaScript库', link: '/framework/javascript' },
+        { text: 'CSS', link: '/framework/css' },
+      ]},
+      { text: 'UI / 组件',
+        items: [
+          { text: 'UI 库', link: '/ui-component/ui' },
+        ]}
     ],
     sidebar:{
       'introduce': [
@@ -32,8 +35,16 @@ export default defineConfig({
         {
           text:"框架 / 库",
           items: [
-            { text: 'JavaScript库', link: '/framework/Development' },
-            { text: 'CSS', link: '/framework/CSS' },
+            { text: 'JavaScript库', link: '/framework/javascript' },
+            { text: 'CSS', link: '/framework/css' },
+          ],
+        }
+      ],
+      '/ui-component/':[
+        {
+          text:"UI / 组件",
+          items: [
+            { text: 'UI 库', link: '/ui-component/ui' },
           ],
         }
       ]
