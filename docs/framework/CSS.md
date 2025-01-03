@@ -29,7 +29,10 @@
 - 仓库资源：[Github地址](https://github.com/less/less.js)
 
 ---
+
 ### Stylus
+
+![Skills](https://skills-icons.vercel.app/api/icons?i=js)
 
 <img style="width: 45px;margin: 10px 0" src="https://stylus-lang.com/logo.svg">
 
