@@ -2,7 +2,7 @@
 title: JavaScript库
 editLink: true
 ---
-# 库 / 框架
+# JS 库
 
 ## 界面构建
 
@@ -70,6 +70,7 @@ editLink: true
 - 仓库资源：[Github地址](https://github.com/lodash/lodash)
 - 官方文档：[文档地址](https://www.lodashjs.com/)
 
+---
 
 ### Axios
 
@@ -85,6 +86,10 @@ editLink: true
 
 ### Dexie.js
 
+<span style="display:flex;align-items: center;"><img style="height:30px;margin: 10px 0" src="https://dexie.org/assets/images/dexie-logo-icon.svg">
+<span style="margin-left:-15px;font-size:30px;color:white;">Dexie</span>
+</span>
+
 `dexie.js` 是一个对浏览器 `indexDB` 的包装库，使得开发者可以更方便地操作 `indexDB`，进行本地化存储。
 
 - 特性
@@ -94,3 +99,40 @@ editLink: true
 ###### 资源地址：
 - 仓库资源：[Github地址](https://github.com/dexie/Dexie.js)
 - 官方文档：[文档地址](https://dexie.org/)
+
+---
+
+### localForage
+`localForage` 是一个基于 `IndexedDB`、`WebSQL` 和 `localStorage` 的封装库，
+它提供了一种简单且一致的方式来在浏览器中进行数据存储，使得开发者可以方便地在不同的浏览器和平台上实现持久性存储，
+而无需担心底层存储技术的不同。
+- 特性：
+  - 简单易用的 API ：提供类似 localStorage 的 API（如 setItem、getItem、removeItem），学习成本低。
+  - 异步操作：在存储和检索数据时，不会阻塞应用程序的执行，提高了性能和用户体验。
+  - 跨浏览器支持：根据浏览器的支持情况自动选择最佳的存储后端（优先级：IndexedDB > WebSQL > localStorage）。兼容现代浏览器和旧版浏览器。
+  - 大容量存储：支持存储大量数据（通常为 50MB 或更多，取决于浏览器和存储后端）。
+  - 支持多种数据类型：可以存储字符串、数字、对象、数组、Blob 等。
+
+###### 资源地址：
+- 仓库资源：[Github地址](https://github.com/localForage/localForage)
+- 官方文档：[中文文档](https://localforage.docschina.org/)
+
+---
+
+### PouchDB
+
+<img style="height:30px;margin: 10px 0" src="https://pouchdb.com/static/img/logo.svg">
+
+`PouchDB` 是一个开源的 `JavaScript` 数据库，设计用于在浏览器和 `Node.js` 环境中运行。
+它基于 `CouchDB` 的协议，支持数据的离线存储和同步，非常适合构建离线优先（Offline-First）的 `Web` 应用 或混合移动应用。
+
+- 特性
+  - 数据同步：支持与 CouchDB 或兼容的服务器（如 Cloudant）进行双向同步。
+  - 简单易用的 API：提供类似 NoSQL 的 API，支持文档的增删改查操作。
+  - 跨平台支持：可以在浏览器、Node.js 和移动端（通过 Cordova 或 Ionic）运行。
+
+###### 资源地址：
+- 仓库资源：[Github地址](https://github.com/pouchdb/pouchdb)
+- 官方文档：[中文文档](https://pouchdb.com/)
+
+

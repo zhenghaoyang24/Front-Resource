@@ -16,7 +16,6 @@ export default defineConfig({
       items: [
         { text: 'JavaScript库', link: '/framework/Development' },
         { text: 'CSS', link: '/framework/CSS' },
-        { text: '状态管理库', link: '/framework/StateManagement' },
       ]}
     ],
     sidebar:{
@@ -35,7 +34,6 @@ export default defineConfig({
           items: [
             { text: 'JavaScript库', link: '/framework/Development' },
             { text: 'CSS', link: '/framework/CSS' },
-            { text: '状态管理库', link: '/framework/StateManagement' },
           ],
         }
       ]
