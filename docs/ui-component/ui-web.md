@@ -125,7 +125,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 ###### 资源地址
 
 - 官方文档：[文档地址](https://material.balmjs.com/)
-- 仓库资源：[github 地址](https://github.com/balmjs/balm-ui)
+- 仓库资源：[GitHub 地址](https://github.com/balmjs/balm-ui)
 
 ## Vuestic UI
 
@@ -136,7 +136,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 ###### 资源地址
 
 - 官方文档：[文档地址](https://vuestic.dev/zh/introduction/overview)
-- 仓库资源：[github 地址](https://github.com/epicmaxco/vuestic-ui)
+- 仓库资源：[GitHub 地址](https://github.com/epicmaxco/vuestic-ui)
 
 ## IDUX UI
 
@@ -161,7 +161,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 ###### 资源地址
 
 - 官方文档：[文档地址](https://idux.site/)
-- 仓库资源：[github 地址](https://github.com/IDuxFE/idux)
+- 仓库资源：[GitHub 地址](https://github.com/IDuxFE/idux)
 
 
 
@@ -174,7 +174,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 ###### 资源地址
 
 - 官方文档：[文档地址](https://github.com/yanghuanrong/RelaxPlus)
-- 仓库资源：[github 地址](https://github.com/yanghuanrong/RelaxPlus)
+- 仓库资源：[GitHub 地址](https://github.com/yanghuanrong/RelaxPlus)
 
 ## Viewer Design
 
@@ -184,7 +184,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 ###### 资源地址
 
-- 仓库资源：[github 地址](https://github.com/a572251465/viewer-design)
+- 仓库资源：[GitHub 地址](https://github.com/a572251465/viewer-design)
 
 
 ## Bin UI Next
@@ -202,6 +202,6 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 ###### 资源地址
 
-- 仓库资源：[github 地址](https://github.com/wangbin3162/bin-ui-next)
+- 仓库资源：[GitHub 地址](https://github.com/wangbin3162/bin-ui-next)
 
 

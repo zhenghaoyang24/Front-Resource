@@ -51,6 +51,13 @@ export default defineConfig({
                 {text: 'web 端', link: '/ui-component/ui-web'},
                 {text: '移动端', link: '/ui-component/ui-mobile'},
               ]
+            },
+            {
+              text: '组件',
+              collapsed: false,
+              items: [
+                {text: '图表组件', link: '/ui-component/component-charts'},
+              ]
             }
           ],
         }
