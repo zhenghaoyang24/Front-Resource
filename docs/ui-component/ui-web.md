@@ -86,7 +86,7 @@
 
 ###### 资源地址
 
-- 官方文档：[文档地址](https://www.vexipui.com/guide/setup)
+- 官方文档：[文档地址](https://github.com/qmhc/vexip-ui)
 - 仓库资源：[github 地址](https://github.com/qmhc/vexip-ui)
 
 ## Heyui
@@ -173,7 +173,7 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 ###### 资源地址
 
-- 官方文档：[文档地址](https://bsie.gitee.io/relaxplus/#/)
+- 官方文档：[文档地址](https://github.com/yanghuanrong/RelaxPlus)
 - 仓库资源：[github 地址](https://github.com/yanghuanrong/RelaxPlus)
 
 ## Viewer Design
