@@ -12,7 +12,7 @@ hero:
       link: /introduce/start
     - theme: alt
       text: GitHub
-      link: /api-examples
+      link: https://github.com/zhenghaoyang24/Front-Resource
 
 features:
   - title: 框架 / 库
