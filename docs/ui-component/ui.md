@@ -2,96 +2,100 @@
 
 ## Element-Plus
 
-<img style="height: 40px;margin: 10px 0" src="https://element-plus.org/images/element-plus-logo.svg">
+<img style="height: 35px;margin: 10px 0" src="https://element-plus.org/images/element-plus-logo.svg">
 
 `Element Plus` 是一个为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库。
 
-<PCIcon />
-
 ![start](https://img.shields.io/github/stars/element-plus/element-plus?style=social)
 
-#### 资源地址
+###### 资源地址
 
 - 官方文档：[中文文档](https://element-plus.org/zh-CN/)
-- 仓库资源：[Github地址](https://github.com/element-plus/element-plus)
-
-## Ant Design Vue
-
-`Ant Design Vue` 是 Ant Design 的 Vue.js 实现，开发和服务于企业级后台产品
-
-![start](https://img.shields.io/github/stars/vueComponent/ant-design-vue?style=social)
-
-#### 资源地址
-
-- 官方文档：[文档地址](https://antdv.com/docs/vue/introduce-cn/)
-- 仓库资源：
-    - [github 地址](https://github.com/vueComponent/ant-design-vue/)
-    - [gitee 地址](https://gitee.com/ant-design-vue/ant-design-vue)
-
-#### 特性
-
-- 提炼自企业级中后台产品的交互语言和视觉风格。
-- 开箱即用的高质量 Vue 组件。
-- 共享 Ant Design of React 设计工具体系。
-
-## Arco Design Vue
-
-字节跳动基于 [Arco Design](https://arco.design/) 开源的 Vue UI 组件库。60 多个开箱即用的高质量组件, 可以覆盖绝大部份的业务场景。
-
-![start](https://img.shields.io/github/stars/arco-design/arco-design-vue?style=social)
-
-#### 资源地址
-
-- 官方文档：[文档地址](https://arco.design/vue/docs/start)
-- 仓库资源：[github 地址](https://github.com/arco-design/arco-design-vue)
-
-## Quasar
-
-构建高性能的 VueJS 用户界面,开箱即用,支持桌面和**移动浏览器**（包括 iOS Safari！）
-
-![start](https://img.shields.io/github/stars/quasarframework/quasar?style=social)
-
-#### 资源地址
-
-- 官方文档：[文档地址](https://quasar.dev/introduction-to-quasar)
-- 仓库资源：[github 地址](https://github.com/quasarframework/quasar)
+- 仓库资源：[GitHub 地址](https://github.com/element-plus/element-plus)
 
 ## Naive UI
 
-`Naive UI` 一个 Vue 3 组件库，比较完整，主题可调，使用 TypeScript，不算太慢,有点意思
+<img style="height: 35px;margin: 10px 0" src="https://www.naiveui.com/assets/naivelogo-BdDVTUmz.svg">
+
+`Naive UI` 一个 Vue 3 组件库，比较完整，主题可调，使用 TypeScript，快，有点意思。
 
 ![start](https://img.shields.io/github/stars/TuSimple/naive-ui?style=social)
 
-#### 资源地址
+###### 资源地址
 
 - 官方文档：[文档地址](https://www.naiveui.com/zh-CN/light)
-- 仓库资源：
-    - [github 地址](https://github.com/TuSimple/naive-ui)
-    - [gitee 地址](https://gitee.com/ant-design-vue/ant-design-vue)
+- 仓库资源：[GitHub 地址](https://github.com/TuSimple/naive-ui)
 
-## Element3
+## Ant Design Vue
 
-Element3，一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库
+<img style="height: 35px;margin: 10px 0" src="https://next.antdv.com/assets/logo.1ef800a8.svg">
 
-![start](https://img.shields.io/github/stars/hug-sun/element3?style=social)
+`Ant Design Vue` 是 Ant Design 的 `Vue.js` 实现，开发和服务于企业级后台产品。
 
-#### 资源地址
+![start](https://img.shields.io/github/stars/vueComponent/ant-design-vue?style=social)
 
-- 官方文档：[文档地址](https://element3-ui.com/#/)
-- 仓库资源：[github 地址](https://github.com/hug-sun/element3)
+###### 特性：
+  - 提炼自企业级中后台产品的交互语言和视觉风格。
+  - 开箱即用的高质量 Vue 组件。
+  - 共享 Ant Design of React 设计工具体系。
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://antdv.com/docs/vue/introduce-cn/)
+- 仓库资源：[GitHub 地址](https://github.com/vueComponent/ant-design-vue/)
+
+
+## Arco Design Vue
+
+字节跳动基于 [Arco Design](https://arco.design/) 开源的 `Vue UI` 组件库。60 多个开箱即用的高质量组件, 可以覆盖绝大部份的业务场景。
+
+![start](https://img.shields.io/github/stars/arco-design/arco-design-vue?style=social)
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://arco.design/vue/docs/start)
+- 仓库资源：[GitHub 地址](https://github.com/arco-design/arco-design-vue)
+
+## Quasar
+
+<img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" style="height: 35px;margin: 10px 0">
+
+`Quasar` 是一个基于 `Vue.js` 的全功能前端框架，支持开发 `Web` 应用、移动应用、桌面应用以及 `PWA`，适合构建跨平台应用。
+
+![start](https://img.shields.io/github/stars/quasarframework/quasar?style=social)
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://quasar.dev/introduction-to-quasar)
+- 仓库资源：[GitHub 地址](https://github.com/quasarframework/quasar)
+
+## Vexip UI
+
+<img src="https://www.vexipui.com/vexip-ui.svg" style="height: 35px;margin: 10px 0">
+
+`Vexip UI` 组件库使用全新的 组合式 Api 编写，并尽可能采用 Vue 传统的方式设计和编写组件，全量的 TypeScript。
+每个组件几乎所有的 属性默认值 均可以通过注入配置快速修改，轻松实现定制化。
+
+![start](https://img.shields.io/github/stars/qmhc/vexip-ui?style=social)
+
+###### 特性
+
+- 开箱即用的高质量 Vue3 组件
+- 符合直觉的 api 设计，易于理解与使用
+- 完全使用组合式 api 编写，拥有优秀的性能与拓展性
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://www.vexipui.com/guide/setup)
+- 仓库资源：[github 地址](https://github.com/qmhc/vexip-ui)
 
 ## Heyui
 
-HeyUI@2.0 是一套基于 Vue3.0 的开源 UI 组件库，主要服务于一些中后台产品。
+`HeyUI@2.0` 是一套基于 `Vue3.0` 的开源 `UI` 组件库，主要服务于一些中后台产品。
 
 ![start](https://img.shields.io/github/stars/heyui/heyui?style=social)
 
-#### 资源地址
-
-- 官方文档：[文档地址](https://v2.heyui.top/component/guide)
-- 仓库资源：[github 地址](https://github.com/heyui/heyui)
-
-#### 特性
+###### 特性
 
 HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配置模式。
 
@@ -99,18 +103,18 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 - 全局的配置模式。
 - 数据字典化。
 
+###### 资源地址
+
+- 官方文档：[文档地址](https://v2.heyui.top/component/guide)
+- 仓库资源：[GitHub 地址](https://github.com/heyui/heyui)
+
 ## BalmUI
 
-`BalmUI` 是为 Vue.js 3.0 量身订制的模块化且高可定制化的 Material Design UI 库。
+`BalmUI` 是一个模块化且可定制的 `Material Design UI` 库，适用于 `Vue 3`。
 
 ![start](https://img.shields.io/github/stars/balmjs/balm-ui?style=social)
 
-#### 资源地址
-
-- 官方文档：[文档地址](https://next-material.balmjs.com/#/guide/intro)
-- 仓库资源：[github 地址](https://github.com/balmjs/balm-ui)
-
-#### 特性
+###### 特性
 
 - 提炼自企业级中后台产品的交互效果和视觉风格
 - 开箱即用的高质量 Vue 组件/插件/指令/常用工具库
@@ -118,30 +122,32 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 - 集成完整最新的 Material Icons
 - 所有组件和插件均高可定制化，并且可被独立使用
 
+###### 资源地址
+
+- 官方文档：[文档地址](https://material.balmjs.com/)
+- 仓库资源：[github 地址](https://github.com/balmjs/balm-ui)
+
 ## Vuestic UI
 
 `Vuestic-ui` 是 Vue 最漂亮的开源管理面板之一，擅长编写可维护的 Vue 代码，制作灵活的组件和接口。
 
 ![start](https://img.shields.io/github/stars/epicmaxco/vuestic-ui?style=social)
 
-#### 资源地址
+###### 资源地址
 
 - 官方文档：[文档地址](https://vuestic.dev/zh/introduction/overview)
 - 仓库资源：[github 地址](https://github.com/epicmaxco/vuestic-ui)
 
 ## IDUX UI
 
-`IDUX UI`是一套企业级中后台 UI 组件库, 致力于提供高效愉悦的开发体验。
-基于 Vue 3.x + TypeScript 开发, 全部代码开源并遵循 MIT 协议，任何企业、组织及个人均可免费使用。
+<img src="https://idux.site/icons/logo.svg" style="height: 35px;margin: 10px 0">
+
+`@idux` 是一套企业级中后台 UI 组件库, 致力于提供高效愉悦的开发体验。
+基于 `Vue 3.x` + `TypeScript` 开发, 全部代码开源并遵循 MIT 协议，任何企业、组织及个人均可免费使用。
 
 ![start](https://img.shields.io/github/stars/IDuxFE/idux?style=social)
 
-#### 资源地址
-
-- 官方文档：[文档地址](https://idux.site/docs/introduce/zh)
-- 仓库资源：[github 地址](https://github.com/IDuxFE/idux)
-
-#### 特性
+###### 特性
 
 - Monorepo 管理模式：cdk, components, pro
 - 全面拥抱 Composition Api，从源码到文档
@@ -152,13 +158,20 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 - 灵活的全局配置
 - 深入细节的主题定制能力
 
+###### 资源地址
+
+- 官方文档：[文档地址](https://idux.site/)
+- 仓库资源：[github 地址](https://github.com/IDuxFE/idux)
+
+
+
 ## RelaxPlus
 
-`RelaxPlus`，一套为开发者学习 Vue 3.x 而准备的友好、简洁、轻盈、精致的桌面端组件库
+`RelaxPlus`，一套为开发者学习 Vue 3.x 而准备的友好、简洁、轻盈、精致的桌面端组件库。
 
 ![start](https://img.shields.io/github/stars/yanghuanrong/RelaxPlus?style=social)
 
-#### 资源地址
+###### 资源地址
 
 - 官方文档：[文档地址](https://bsie.gitee.io/relaxplus/#/)
 - 仓库资源：[github 地址](https://github.com/yanghuanrong/RelaxPlus)
@@ -169,38 +182,10 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 ![start](https://img.shields.io/github/stars/a572251465/viewer-design?style=social)
 
-#### 资源地址
+###### 资源地址
 
-- 官方文档：[文档地址](http://121.196.212.200/#/introduce)
 - 仓库资源：[github 地址](https://github.com/a572251465/viewer-design)
 
-#### 特性
-
-- 丰富的组件以及功能，满足大部分中后台产品的业务场景；
-- 每个组件都用于高配置性，例如属性 styles，满足您的各种定制化
-- 所有组件基于 typescript ,CompositionAPI 以及 tsx 开发。是 Vuetypescript 爱好者绝佳学习对象。如果你希望使用 tsx 开-发高质量的 Vue 组件，那么强烈推荐尝试基于 Viewer-Design 的组件来封装
-- 支持组件按需引入，支持图标按需加载，组件库使用了 yarn + lerna 管理模式，可以单独下载并使用某一个组件
-- 为了满足日常的业务需求，从使用的角度提供了更多的指令，方便快捷。例如：复制文本,避免了单独下载插件来实现
-  实- 现过程中，所有使用到的组件都手写并且公开，没有用到任何外部组件, 所以无需担心下载包过大
-
-## Vexip UI
-
-`Vexip UI` 提供了一系类开箱即用的组件。
-该组件库使用全新的 vue3.0 组合式 Api 编写，开发脚手架为最新的 vite2.0，并且应用 monorepo 的管理思想使得可以为每个组件启动独立的开发服务与建立单独的开发文件，是新一代 vue 组件库项目的一次尝试。
-
-![start](https://img.shields.io/github/stars/qmhc/vexip-ui?style=social)
-
-#### 资源地址
-
-- 官方文档：[文档地址](https://www.vexipui.com/guide/setup)
-- 仓库资源：[github 地址](https://github.com/qmhc/vexip-ui)
-
-#### 特性
-
-- 丰富的组件和功能，为网站开发助力，大幅提高效率
-- 开箱即用的高质量 Vue3 组件
-- 符合直觉的 api 设计，易于理解与使用
-- 完全使用组合式 api 编写，拥有优秀的性能与拓展性
 
 ## Bin UI Next
 
@@ -208,14 +193,26 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 ![start](https://img.shields.io/github/stars/wangbin3162/bin-ui-next?style=social)
 
-#### 资源地址
+###### 特性
 
-- 官方文档：[文档地址](https://wangbin3162.gitee.io/bin-ui-next/#/guide)
+- 基于 Vue 3.0 Composition API。
+- 最新图标基于阿里 iconfont ant-design 官方图标精简版，
+- 移除了部分冗余代码，
+- 部分组件代码进行重构优化。
+
+###### 资源地址
+
 - 仓库资源：[github 地址](https://github.com/wangbin3162/bin-ui-next)
 
-#### 特性
+## uv-ui
 
-- 基于 Vue 3.0 Composition API
-- 最新图标基于阿里 iconfont ant-design 官方图标精简版
-- 移除了部分冗余代码
-- 部分组件代码进行重构
+<img src="https://www.uvui.cn/common/logo.png" style="height: 35px;margin: 10px 0">
+
+`uv-ui` 兼容vue3+2、nvue、app、h5、小程序等多端基于 `uni-app` 和 `uView2.x` 的生态框架，支持单独导入，开箱即用，利剑出击。
+
+![start](https://img.shields.io/github/stars/climblee/uv-ui?style=social)
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://www.uvui.cn/)
+- 仓库资源：[github 地址](https://github.com/climblee/uv-ui)
