@@ -1,4 +1,4 @@
-# UI 库
+# UI web 
 
 ## Element-Plus
 
@@ -204,15 +204,4 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 
 - 仓库资源：[github 地址](https://github.com/wangbin3162/bin-ui-next)
 
-## uv-ui
 
-<img src="https://www.uvui.cn/common/logo.png" style="height: 35px;margin: 10px 0">
-
-`uv-ui` 兼容vue3+2、nvue、app、h5、小程序等多端基于 `uni-app` 和 `uView2.x` 的生态框架，支持单独导入，开箱即用，利剑出击。
-
-![start](https://img.shields.io/github/stars/climblee/uv-ui?style=social)
-
-###### 资源地址
-
-- 官方文档：[文档地址](https://www.uvui.cn/)
-- 仓库资源：[github 地址](https://github.com/climblee/uv-ui)

@@ -18,7 +18,7 @@ export default defineConfig({
       ]},
       { text: 'UI / 组件',
         items: [
-          { text: 'UI 库', link: '/ui-component/ui' },
+          { text: 'UI 库', link: '/ui-component/ui-web' },
         ]}
     ],
     sidebar:{
@@ -44,7 +44,14 @@ export default defineConfig({
         {
           text:"UI / 组件",
           items: [
-            { text: 'UI 库', link: '/ui-component/ui' },
+            {
+              text: 'UI 库',
+              collapsed: false,
+              items: [
+                {text: 'web 端', link: '/ui-component/ui-web'},
+                {text: '移动端', link: '/ui-component/ui-mobile'},
+              ]
+            }
           ],
         }
       ]
