@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "Front-Resource"
   text: "收集与前端相关的资源。"
-  tagline: 包含 UI/组件库、开发工具、设计资源、学习资源、社区/论坛、行业趋势等。
+  tagline: 包含 UI/组件库、开发工具、设计资源、学习资源、社区论坛等。
   actions:
     - theme: brand
-      text: 看一看
-      link: /introduce/start
+      text: 了解一下
+      link: /about/introduce
     - theme: alt
       text: GitHub
       link: https://github.com/zhenghaoyang24/Front-Resource
