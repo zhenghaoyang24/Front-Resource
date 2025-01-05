@@ -2,6 +2,8 @@
 
 ## 项目介绍
 
+<img width="250px" src="../public/logo.svg" style="margin: 0 auto">
+
 `FrontPress` 专注于收集前端开发的各类资源并持续更新，包含**前端工具、库、框架、设计与学习资源**等。
 无论你是初学者还是资深开发者，`FrontPress` 都希望能帮助你快速找到所需的资源，提升开发效率。
 

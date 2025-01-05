@@ -1,11 +1,17 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
+head:
+  - - link
+    - rel: icon
+      href: ./public/logo.svg
 hero:
   name: "Front-Resource"
   text: "收集与前端相关的资源。"
   tagline: 包含 UI/组件库、开发工具、设计资源、学习资源、社区论坛等。
+  image:
+    src: ./public/logo.svg
+    alt: Front Resource
   actions:
     - theme: brand
       text: 了解一下
