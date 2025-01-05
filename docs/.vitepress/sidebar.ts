@@ -36,9 +36,20 @@ export const sidebar = {
                         {text: '音频/视频组件', link: '/ui-component/component-media'},
                         {text: '图片组件', link: '/ui-component/component-image'},
                         {text: '上传组件', link: '/ui-component/component-upload'},
+                        {text: '拖拽组件', link: '/ui-component/component-drag'},
+
                     ]
                 }
             ],
+        }
+    ],
+    'design':[
+        {
+            text: '设计资源',
+            items: [
+                {text: '图标', link: '/design/icon'},
+                {text: '动画', link: '/design/animate'},
+            ]
         }
     ]
 }
