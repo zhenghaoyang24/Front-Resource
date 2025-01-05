@@ -6,7 +6,7 @@ export default defineConfig({
     title: "Front-Resource",
     description: "Collect high-quality resources related to the front-end.",
     themeConfig: {
-        logo: '/public/logo.svg',
+        logo: '/logo.svg',
         outline: {
             level: [2, 3],
             label: '本页标题'
