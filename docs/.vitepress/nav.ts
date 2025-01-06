@@ -24,6 +24,15 @@ export const nav =
             items: [
                 {text: '图标', link: '/design/icon'},
                 {text: '动画', link: '/design/animate'},
+                {text: '字体', link: '/design/fonts'},
+                {text: '配色', link: '/design/color'},
+                {text: '灵感', link: '/design/inspiration'},
+            ]
+        },
+        {
+            text: '工具 / 插件',
+            items: [
+                {text: '工具', link: '/tools-plugin/tools'},
             ]
         }
     ]
