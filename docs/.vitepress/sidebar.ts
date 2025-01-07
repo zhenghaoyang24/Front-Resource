@@ -55,11 +55,12 @@ export const sidebar = {
             ]
         }
     ],
-    'tools-plugin':[
+    'tools-plugin': [
         {
             text: '工具 / 插件',
             items: [
                 {text: '工具', link: '/tools-plugin/tools'},
+                {text: '插件', link: '/tools-plugin/plugin'},
             ]
         }
     ]

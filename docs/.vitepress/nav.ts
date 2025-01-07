@@ -33,6 +33,7 @@ export const nav =
             text: '工具 / 插件',
             items: [
                 {text: '工具', link: '/tools-plugin/tools'},
+                {text: '插件', link: '/tools-plugin/plugin'},
             ]
         }
     ]
