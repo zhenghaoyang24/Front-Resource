@@ -15,10 +15,10 @@
 ，[图片组件](../ui-component/component-image)，[上传组件](../ui-component/component-upload)，[拖拽组件](../ui-component/component-drag)
 - **🎨 设计资源**：收集与前端开发相关的设计资源，如设计工具、图标、配色方案、字体库等。
   [图标](../design/icon)，[动画](../design/animate)，[字体](../design/fonts)，[配色](../design/color)，[灵感](../design/inspiration)
-- **🔨 工具与插件**：收集前端开发中常用的实用工具与插件。  
-  [工具](../tools-plugin/tools)
-- **📰 模板**：收集用于搭建文档站点或博客的主题模板、项目模板等。
-- **🔍 学习与进步**：推荐前端开发的社区论坛、书籍课程、行业趋势等。
+- **🔨 工具与插件**：收集前端开发中常用的工具与插件。  
+  [工具](../tools-plugin/tools)，[插件](../tools-plugin/plugin)
+- **📰 开源项目**：收集优质的各类前端开源项目。
+- **🔍 学习进步**：推荐前端开发的社区论坛、书籍课程、行业趋势等。
 
 ## 贡献指南
 

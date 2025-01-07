@@ -33,12 +33,13 @@ features:
   - title: 工具与插件
     icon: 🔨
     details: 收集前端开发中常用的实用工具与插件。
-  - title: 模板
+  - title: 开源项目
     icon: 📰
-    details: 收集用于搭建文档站点或博客的主题模板、项目模板等。
-  - title: 学习与进步
+    details: 收集优质的各类前端开源项目。
+  - title: 学习进步
     icon: 🔍
-    details: 推荐前端开发的社区论坛、书籍课程、行业趋势等。
+    details: 各种开发社区论坛、学习资源渠道等。
+    
 
 ---
 

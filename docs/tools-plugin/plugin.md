@@ -1,7 +1,7 @@
 # 插件
 
 ::: tip
-部分插件可能在一些 IDE 已经内置或不支持，因此未列出各 IDE 插件地址。
+部分插件可能在一些 IDE 已经内置或不支持，因此未列出各 IDE 的插件地址。
 :::
 
 ## 代码格式化与检查
@@ -101,6 +101,40 @@ CSS/SCSS/Less 代码检查。
 **WebStorm** 插件地址: [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 
 
-## 其他实用工具
+## 其他实用插件
+
+### CodeGlance Pro
+
+<img src="https://plugins.jetbrains.com/files/18824/658516/icon/pluginIcon.svg" style="width: 40px;margin:8px 0" >
+
+显示代码预览缩略图。
+###### 插件市场：
+**WebStorm** 插件地址: [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
+
+---
+
+### Markdown All in One
+Markdown 编辑工具，支持快捷键、目录生成等。
+###### 插件市场：
+**VS Code** 插件地址: [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+---
+
+### Markdown Preview Enhanced
+
+增强 Markdown 预览功能，可将 ms 导出为多种格式。
+
+###### 插件市场：
+**VS Code** 插件地址: [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+---
+
+### Import Cost
+
+显示导入的包大小。
+
+###### 插件市场：
+**VS Code** 插件地址: [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
 
 
