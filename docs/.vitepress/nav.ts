@@ -35,5 +35,17 @@ export const nav =
                 {text: '工具', link: '/tools-plugin/tools'},
                 {text: '插件', link: '/tools-plugin/plugin'},
             ]
+        },
+        {
+            text: '开源项目',
+            items: [
+                {text: '博客主题', link: '/project/blog'},
+            ]
+        },
+        {
+            text: '学习进步',
+            items: [
+                {text: '社区 / 论坛', link: '/study/forum'},
+            ]
         }
     ]

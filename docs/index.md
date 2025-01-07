@@ -8,7 +8,7 @@ head:
 hero:
   name: "Front-Resource"
   text: "收集与前端相关的资源。"
-  tagline: 包含 UI/组件库、开发工具、设计资源、学习资源、社区论坛等。
+  tagline: 包含 UI/组件库、开发工具、设计资源、学习资源、开源项目等。
   image:
     src: /logo.svg
     alt: Front Resource
