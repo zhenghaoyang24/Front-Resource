@@ -205,3 +205,18 @@ HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配�
 - 仓库资源：[GitHub 地址](https://github.com/wangbin3162/bin-ui-next)
 
 
+## Vuetify
+
+<img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" style="height: 45px;margin: 10px 0">
+
+
+`Vuetify` 是一个功能强大的 Vue 组件框架，从底层开始构建，易学易用。
+
+![start](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social)
+
+###### 资源地址
+
+- 官方文档：[文档地址](https://vuetifyjs.com/zh-Hans/)
+- 仓库资源：[GitHub 地址](https://github.com/vuetifyjs/vuetify)
+
+

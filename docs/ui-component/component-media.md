@@ -93,3 +93,13 @@
 
 - 官方文档：[Demo 地址](https://player.2heng.xin/)
 - 仓库资源：[GitHub 地址](https://github.com/mashirozx/alice-player)
+
+
+## vue3-wave-audio-player
+
+一款支持显示波形的音频播放器，支持多个播放器联动启停，可用于 vue3 项目中。
+
+![start](https://img.shields.io/github/stars/marifuli/vue3-wave-audio-player?style=social)
+
+###### 资源地址
+- 仓库资源：[GitHub 地址](https://github.com/marifuli/vue3-wave-audio-player)
