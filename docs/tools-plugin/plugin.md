@@ -136,5 +136,15 @@ Markdown 编辑工具，支持快捷键、目录生成等。
 ###### 插件市场：
 **VS Code** 插件地址: [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
+---
 
+### Markdown Editor
+
+<img src="https://plugins.jetbrains.com/files/17254/308844/icon/pluginIcon.svg" style="width: 40px;margin:8px 0" >
+
+
+`IntelliJ` 平台一个功能齐全的所见即所得 `Markdown` 编辑器，可以像**富文本编辑器**一样编辑 `Markdown` 文档。
+
+###### 插件市场：
+**WebStorm** 插件地址: [Markdown Editor](https://plugins.jetbrains.com/plugin/17254-markdown-editor)
 
