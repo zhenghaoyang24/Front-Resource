@@ -148,3 +148,9 @@ Markdown 编辑工具，支持快捷键、目录生成等。
 ###### 插件市场：
 **WebStorm** 插件地址: [Markdown Editor](https://plugins.jetbrains.com/plugin/17254-markdown-editor)
 
+---
+
+### Code Runner
+一键运行多种语言运行代码片段或代码文件。
+###### 插件市场：
+**VS Code** 插件地址: [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
