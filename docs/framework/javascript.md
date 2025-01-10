@@ -10,8 +10,7 @@ editLink: true
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-`React` 是一个用于构建用户界面的 `JavaScript` 库。它采用组件化开发模式，通过虚拟 DOM 实现高效的 UI 更新，拥有强大的生态系统，
-是每一个前端开发者都应该学习的库。
+`React` 是一个用于构建用户界面的 `JavaScript` 库。使用组件化的方式构建 UI，通过虚拟 DOM 技术提高渲染效率，拥有强大的生态系统。
 
 ###### 资源地址：  
 
@@ -24,7 +23,7 @@ editLink: true
 
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
-`Vue` 是一个轻量级、渐进式的 `JavaScript` 框架，由尤雨溪开发。易于上手，易学易用，性能出色，适用场景丰富的 Web 前端框架，
+`Vue` 是一个轻量级、渐进式的 `JavaScript` 框架，易于上手，易学易用，性能出色，适用场景丰富的 Web 前端框架，
 同样拥有丰富的生态， 是每一个前端开发者必会的前端框架。
 
 ###### 资源地址：
@@ -38,8 +37,8 @@ editLink: true
 
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
-`Angular` 是一个适用于任何规模的 Web 应用开发框架，可以构建 Web、手机或桌面应用。
-它集声明式模板、依赖注入、端到端工具和一些最佳实践于一身，帮助开发者更轻松的构建应用。
+`Angular` 是由 `Google` 开发的一个完整的前端框架，它提供了从路由、表单处理到HTTP客户端等一整套解决方案，
+通过使用TypeScript提供强类型支持。
 
 ###### 资源地址：
 
