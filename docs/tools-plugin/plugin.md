@@ -39,6 +39,16 @@ CSS/SCSS/Less 代码检查。
 
 ## 代码补全与智能提示
 
+
+### Cline
+
+支持多种模型，不仅能够进行智能代码分析与生成，还能执行文件操作、终端命令等，是编程的有力助手。
+
+###### 插件市场：
+**VS Code** 插件地址: [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)  
+
+---
+
 ### Auto Import
 
 自动导入 JavaScript/TypeScript 模块。
@@ -70,11 +80,9 @@ CSS/SCSS/Less 代码检查。
 ---
 
 ### Path Intellisense
-
 自动补全文件路径。
 ###### 插件市场：
 **VS Code** 插件地址: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-
 
 
 
@@ -154,3 +162,5 @@ Markdown 编辑工具，支持快捷键、目录生成等。
 一键运行多种语言运行代码片段或代码文件。
 ###### 插件市场：
 **VS Code** 插件地址: [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+---
