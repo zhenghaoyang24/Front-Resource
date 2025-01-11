@@ -1,7 +1,3 @@
----
-title: JavaScript库
-editLink: true
----
 # JS 库
 
 ## 界面构建

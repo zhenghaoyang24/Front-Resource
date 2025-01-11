@@ -29,6 +29,19 @@
 文档中存在一些需网络工具才可访问的链接，若任发现无法打开或链接已更新失效， 
 请[提交 issue](https://github.com/zhenghaoyang24/Front-Resource/issues)。
 
+###### 贡献地址：
+
+| 类别 | 地址 |
+| --- | --- |
+| 框架 / 库 | [JavaScript 库](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/framework/javascript.md)，[CSS 相关](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/framework/css.md) |
+| UI / 组件库 | [Web 端](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/ui-web.md)，[移动端](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/ui-mobile.md)，[图表组件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/component-charts.md)，[音频/视频组件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/component-media.md)，[图片组件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/component-image.md)，[上传组件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/component-upload.md)，[拖拽组件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/ui-component/component-drag.md) |
+| 设计资源 | [图标](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/design/icon.md)，[动画](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/design/animate.md)，[字体](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/design/fonts.md)，[配色](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/design/color.md)，[灵感](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/design/inspiration.md) |
+| 工具与插件 | [工具](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/tools-plugin/tools.md)，[插件](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/tools-plugin/plugin.md) |
+| 开源项目 | [博客主题](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/project/blog.md) |
+| 学习进步 | [社区 / 论坛](https://github.com/zhenghaoyang24/Front-Resource/blob/master/docs/study/forum.md) |
+
+
+
 ## 项目依赖
 
 本项目**主题**由 [VitePress](https://vitepress.dev/zh/) 支持。  
